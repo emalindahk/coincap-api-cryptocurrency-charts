@@ -1,6 +1,6 @@
 {
   "name": "coins-app",
-  "homepage": "https://emalindahk.github.io/coincap-api-latest-cryptocurrency-prices/",
+  "homepage": "https://coincap-crypto-api.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
