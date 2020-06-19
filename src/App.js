@@ -22,9 +22,7 @@ function App() {
   }, [setAppState]);
   return (
     <div className='App'>
-      <div>
         <DataLoading isLoading={appState.loading} assets={appState.assets} />
-      </div>
     </div>
   );
 }
